@@ -26,6 +26,25 @@ At the same time, this package was specifically reworked for Codex by:
 - making generated runtime skills usable inside Codex
 - rewriting documentation and packaging around Codex instead of upstream runtime assumptions
 
+## Disclaimer
+
+⚠️ This project is only for:
+
+- personal reflection
+- emotional processing
+- creative experimentation
+- local private use
+
+It must not be used for:
+
+- harassment
+- stalking or coercive contact
+- impersonation
+- privacy invasion
+- retaliation or any abusive use
+
+Generated content is only a simulation based on local materials, does not represent the real person, and should not replace real communication.
+
 ## Repository-root installation support
 
 Yes — this bundle now **preferentially supports git-repo-root installation**.
