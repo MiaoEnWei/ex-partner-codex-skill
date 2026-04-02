@@ -25,7 +25,11 @@ except ImportError:
 def get_exif_data(image_path: str) -> dict:
     """提取单张图片的 EXIF 信息"""
     if not HAS_PIL:
-        return {'error': 'Pillow 未安装，无法读取 EXIF'}
+        return {
+            'file': os.path.basename(image_path),
+            'path': image_path,
+            'error': 'Pillow 未安装，无法读取 EXIF'
+        }
     
     try:
         img = Image.open(image_path)
