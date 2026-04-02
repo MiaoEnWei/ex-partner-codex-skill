@@ -1,6 +1,6 @@
 # 前任 Skill for Codex / 前任 Codex Skill
 
-[![GitHub release](https://img.shields.io/github/v/release/MiaoEnWei/ex-partner-codex-skill)](https://github.com/MiaoEnWei/ex-partner-codex-skill/releases)
+[![GitHub release](https://img.shields.io/github/v/release/Cz1ang/ex-partner-codex-skill)](https://github.com/Cz1ang/ex-partner-codex-skill/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![Codex Skills](https://img.shields.io/badge/Codex-Skills-blue)](./skills)
 
