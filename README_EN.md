@@ -28,7 +28,10 @@ At the same time, this package was specifically reworked for Codex by:
 
 ## Disclaimer
 
-⚠️ This project is only for:
+Some people leave, but memory does not disappear all at once.  
+This project is better understood as a place for reflection, emotional processing, and creative experimentation — not as a replacement for a real relationship.
+
+It is only meant for:
 
 - personal reflection
 - emotional processing
@@ -43,7 +46,8 @@ It must not be used for:
 - privacy invasion
 - retaliation or any abusive use
 
-Generated content is only a simulation based on local materials, does not represent the real person, and should not replace real communication.
+Everything generated here is only a simulation assembled from local materials.  
+It does not represent the real person, and it should not replace real communication, real boundaries, or real life.
 
 ## Repository-root installation support
 
